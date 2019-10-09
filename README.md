@@ -19,6 +19,7 @@
 
 ### code
 
+```javascript
         Bitmap bmp;
 
         public Form1()
@@ -216,5 +217,4 @@
             labelResolution.Text = pictureBox.Height.ToString() + " X " + pictureBox.Width.ToString();
         }
     }
-}
 ```
